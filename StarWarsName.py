@@ -6,10 +6,10 @@
 def main ():
     
 # User inputs her first last mother madian city name
-    firstName = (input("Please enter you First name:"))
-    lastName = (input("Please enter you Last name:"))
-    madName =  (input ("Please enter your madian name"))
-    city = (input("Please enter you City name:"))
+    firstName = (input("Please enter you First name: "))
+    lastName = (input("Please enter you Last name: "))
+    madName =  (input ("Please enter your mothers maiden name: "))
+    city = (input("Please enter you City name: "))
 
 # Program prints starwars name 
     
